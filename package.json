@@ -1,0 +1,16 @@
+{
+  "name": "webtech1",
+  "version": "0.0.0",
+  "description": "webtech1",
+  "main": "app.js",
+  "author": {
+    "name": "Becze Dániel"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security"
+  }
+}
